@@ -33,9 +33,9 @@ I have also used Tableau Worksheets and Dashboard in order to create visualizati
 Though I have worked on Tableau before, the main goal here for me is to determine the key metrics and create an effective visualization. This helps me in creating good and effective visualizations instead of a messy visualization.
 
 ### Relevant Links
-- **Google Sheet :** Google Sheet with Dashboard and Summary Tables[https://docs.google.com/spreadsheets/d/1pT6jaGbtogC4-baMDRgSEhA4DrYuE6pQVCKY5OE6A_k/edit?usp=sharing]
-- **Google Sheet :** Google Sheet without Dashboard and Summary Tables[https://docs.google.com/spreadsheets/d/1xD2o2rJh1Kmc9Lgpk740gJkfHkvCA5devJjPiaAjWSE/edit?usp=sharing]
-- **Tableau :** Tableau Dashboard[]
+- **Google Sheet :** [Google Sheet with Dashboard and Summary Tables](https://docs.google.com/spreadsheets/d/1pT6jaGbtogC4-baMDRgSEhA4DrYuE6pQVCKY5OE6A_k/edit?usp=sharing)
+- **Google Sheet :** [Google Sheet without Dashboard and Summary Tables](https://docs.google.com/spreadsheets/d/1xD2o2rJh1Kmc9Lgpk740gJkfHkvCA5devJjPiaAjWSE/edit?usp=sharing)
+- **Tableau :** [Tableau Dashboard]()
 
 ### Conclusion
 Following are the insights and recommendations drawn from the data analysis:
