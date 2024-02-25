@@ -12,19 +12,19 @@ This data analysis not only gives the understanding of the work I have done in a
 ### Data Analysis Process
 The data is recorded using Google Sheets, manually (in the sense, I have typed in all the data by end of the day). This was easier for me since I have already had a planned day every single time (mostly) but it would have been easier if I were able to use a productivity app.
 The data collected in the Google sheets has different columns (attributes) and numerous rows. The attributes that have included in the Google Sheets are:
-**Date :** Date the work was done (MM/DD/YYYY)
-**Month :** Month in which the work was done.(MMMM)
-**Day :** Day of the week (DDDD)
-**Time (in hours) :** Determines the amount of time spent on each of the specific tasks, in hours.
-**Work Description :** Determines the description of the task/ work.
-**Category ID :** It is the ID for the Category under which the task/ work falls.
-**Total Time (in hours) :** Total time spent on different tasks for the day.
-**Categories :** List of the Categories (data for a total of 8 different categories were recorded).
+- **Date :** Date the work was done (MM/DD/YYYY)
+- **Month :** Month in which the work was done.(MMMM)
+- **Day :** Day of the week (DDDD)
+- **Time (in hours) :** Determines the amount of time spent on each of the specific tasks, in hours.
+- **Work Description :** Determines the description of the task/ work.
+- **Category ID :** It is the ID for the Category under which the task/ work falls.
+- **Total Time (in hours) :** Total time spent on different tasks for the day.
+- **Categories :** List of the Categories (data for a total of 8 different categories were recorded).
 
 I have not only recorded data using Google Sheets but also created a Dashboard using Google Sheets (Link for this can be found below).
 This dashboard in the Google Sheets not only has visualizations but also Summary Tables like the Total Time spent and Average Time spent (in Hours) (for each month, each day of the week, for each category) and also has a summary table for the General Stats i.e., showing the Aggregate values for the data table such as the Total time spent, Average time spent, Maximum and Minimum amount of time spent and also Average Time spent per week.
 
-**Note:** I have created the Dashboard in the same worksheet as of the recorded data as I have less number of columns and it was quicker for me to work with.
+- **Note:** I have created the Dashboard in the same worksheet as of the recorded data as I have less number of columns and it was quicker for me to work with.
 Creating a Dashboard in the same worksheet of data was easier and quicker for me but when working with numerous columns of data and for any organization, it is appreciated to have a dashboard and data on different sheets.
 
 ### Tableau
