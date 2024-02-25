@@ -1,4 +1,4 @@
-# 7-Months Work Log
+# Work Log
 ### Data Source
 I have recorded all the data using Google Sheets for a time period of 7 months i.e., from August 1, 2023 to February 24, 2024.
 
